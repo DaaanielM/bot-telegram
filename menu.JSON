@@ -1,0 +1,53 @@
+[
+	{
+		"id": 1001,
+		"name": "Solterona",
+		"description": "Carne, Queso, Tomate, Lechuga, Grille"
+	},
+	{
+		"id": 1002,
+		"name": "Callejera",
+		"description": "Carne, Queso, Papas Fritas,  Grille"
+	},
+	{
+		"id": 1003,
+		"name": "Que-suda",
+		"description": "Carne, Triple Queso, Lechuga"
+	},
+	{
+		"id": 1004,
+		"name": "Pechugona",
+		"description": "Pollo, Tomate, Lechuga, Cebolla"
+	},
+	{
+		"id": 2001,
+		"name": "Cachorro",
+		"description": "Salchicha Americana, Queso, Papas Triturada"
+	},
+	{
+		"id": 2002,
+		"name": "Intenso",
+		"description": "Salchicha Americana, Queso, Jamón, Papas Trituradas"
+	},
+	{
+		"id": 2003,
+		"name": "Chacho",
+		"description": "Salchicha Americana, Queso, Cebolla, Papas Trituradas"
+	},
+	{
+		"id": 3001,
+		"name": "Cerveza"
+	},
+	{
+		"id": 3002,
+		"name": "Agua"
+	},
+	{
+		"id": 3003,
+		"name": "Jugo"
+	},
+	{
+		"id": 3004,
+		"name": "Gaseosa"
+	}
+]
